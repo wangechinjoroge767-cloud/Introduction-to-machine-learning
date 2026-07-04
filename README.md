@@ -17,3 +17,21 @@
 * Training set.
 * Test set.
 • Recommended project folder structure for organizing Machine Learning projects.
+
+## JULY/2/2026
+ Introduction to Supervised Learning.
+• Linear Regression:
+Types of Linear Regression:
+Simple Linear Regression.
+Multiple Linear Regression.
+Polynomial Regression.
+Core concepts in Linear Regression:
+Regression line.
+Intercept.
+Slope (coefficient).
+Residuals.
+Least Squares Method.
+Multicollinearity and methods for detecting it.
+Assumptions of Linear Regression.
+Introduction to model evaluation metrics:
+Mean Absolute Error (MAE).
