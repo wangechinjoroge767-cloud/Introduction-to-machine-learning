@@ -35,3 +35,16 @@ Multicollinearity and methods for detecting it.
 Assumptions of Linear Regression.
 Introduction to model evaluation metrics:
 Mean Absolute Error (MAE).
+
+
+##JULY/6/2026
+• Reviewed blockers encountered in the Statistics project and discussed appropriate solutions.
+• Continued the discussion on regression model evaluation metrics:
+Mean Squared Error (MSE).
+Root Mean Squared Error (RMSE).
+R² Score.
+Adjusted R² Score.
+• Began the hands-on Linear Regression project:
+Importing the required libraries.
+Loading the dataset.
+Exploring the dataset using summary information.
