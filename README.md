@@ -48,3 +48,13 @@ Adjusted R² Score.
 Importing the required libraries.
 Loading the dataset.
 Exploring the dataset using summary information.
+
+##JULY/7/2026
+• Continued the Salary Prediction Machine Learning project.
+• Assessed the unique values in categorical features to determine the appropriate encoding strategy.
+• Separated the dataset into features (X) and the target variable (y).
+• Split the dataset into training and testing sets.
+• Explored different techniques for encoding categorical variables and applied the appropriate encoder.
+• Trained a Linear Regression model.
+• Generated predictions on the test dataset.
+• Evaluated the model's performance using regression evaluation metrics.
