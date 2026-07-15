@@ -58,3 +58,12 @@ Exploring the dataset using summary information.
 • Trained a Linear Regression model.
 • Generated predictions on the test dataset.
 • Evaluated the model's performance using regression evaluation metrics.
+
+##JULY/8/2026
+* Introduction to regularization techniques in Linear Regression.
+* Lasso Regression:
+  * Concept and applications.
+* Hands-on implementation using the California Housing dataset.
+  • Detecting multicollinearity using the Variance Inflation Factor (VIF).
+  • Ridge Regression:
+* Concept and comparison with Lasso Regression.
