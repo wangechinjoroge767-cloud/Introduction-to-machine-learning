@@ -67,3 +67,14 @@ Exploring the dataset using summary information.
   • Detecting multicollinearity using the Variance Inflation Factor (VIF).
   • Ridge Regression:
 * Concept and comparison with Lasso Regression.
+
+##JULY/14/2026
+* Continued the discussion on Ridge Regression and its practical implementation.
+* Introduced feature scaling and discussed the different types of scalers used in Machine Learning.
+* Introduction to Classification:
+
+* What classification is and its real-world applications.
+* Types of classification problems.
+  • Introduction to classification evaluation metrics:
+* Confusion Matrix.
+* Accuracy.
