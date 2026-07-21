@@ -88,3 +88,13 @@ Exploring the dataset using summary information.
 * Macro F1 Score.
   • Introduction to Logistic Regression.
   • Began a hands-on Classification project using the Financial Inclusion dataset.
+
+##JULY/16/2026
+* K-Nearest Neighbors (KNN):
+
+* Introduction to the KNN algorithm.
+* Distance metrics used in KNN.
+* Practical hands-on implementation.
+  • Decision Trees:
+* Introduction to Decision Trees.
+* Practical hands-on implementation.
