@@ -78,3 +78,13 @@ Exploring the dataset using summary information.
   • Introduction to classification evaluation metrics:
 * Confusion Matrix.
 * Accuracy.
+
+##JULY/15/2026
+* Continued the discussion on classification evaluation metrics:
+
+* Precision.
+* Recall.
+* F1 Score.
+* Macro F1 Score.
+  • Introduction to Logistic Regression.
+  • Began a hands-on Classification project using the Financial Inclusion dataset.
